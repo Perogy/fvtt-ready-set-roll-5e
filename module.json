@@ -16,7 +16,6 @@
 	],
 	"esmodules": [
 		"./src/ready-set-roll.js",		
-		"./src/module/config.js"
 	],
 	"styles": [
 		"./css/ready-set-roll.css"
@@ -45,16 +44,6 @@
 				}
 			}
 		],
-		"requires": [
-			{
-				"id": "lib-wrapper",
-				"type": "module",
-				"compatibility": {
-					"minimum": "1.0.0.0",
-					"verified": "1.12.11.0"
-				}
-			}
-		]
 	},
 	"url": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e",
 	"manifest": "https://raw.githubusercontent.com/Perogy/fvtt-ready-set-roll-5e/master/module.json",
