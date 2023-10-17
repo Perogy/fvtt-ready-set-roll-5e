@@ -57,7 +57,7 @@
 		]
 	},
 	"url": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e",
-	"manifest": "https://raw.githubusercontent.com/MangoFVTT/fvtt-ready-set-roll-5e/master/module.json",
+	"manifest": "https://raw.githubusercontent.com/Perogy/fvtt-ready-set-roll-5e/master/module.json",
 	"download": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/releases/download/release-2.1.2/rsr5e-release-2.1.2.zip",
 	"bugs": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/issues",
 	"readme": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/blob/master/README.md"
