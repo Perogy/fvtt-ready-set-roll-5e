@@ -15,7 +15,6 @@
 		}
 	],
 	"esmodules": [
-		"./lib/libWrapper/shim.js",
 		"./src/ready-set-roll.js",		
 		"./src/module/config.js"
 	],
